@@ -5,7 +5,7 @@ For CS 545 project, code to update BokehJS box selection tool as an Image Annota
 
 How to Use.
 ---------------------
-To use the Image annotation wisget you must have the BokehJS project
+To use the Image annotation widget you must have the BokehJS project
 
 Replace the "vendor" and "tool" folders of the Bokehjs project with these folders.
 
